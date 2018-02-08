@@ -202,7 +202,7 @@ strong {
 
 .text-primary {
   /*color: #bc9d4b !important;*/
-  color: #588dcb !important;
+  color: #2a2ecb !important;
 }
 
 .text-success {
@@ -332,6 +332,10 @@ img.btn-pill {
 
 .primary-bg-color {
   background-color: #bc9d4b !important;
+}
+
+.divider-color {
+  background-color: #ffffff !important;
 }
 
 .success-bg-color {
@@ -2144,13 +2148,13 @@ section {
 /* End Mini Slider */
 /* About Section */
 #opening {
-  background: url("../images/opening.jpg") no-repeat;
+  background: url("../images/scb/burgernfries.png") no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .opening-box {
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(222, 184, 135, 0.75) !important;
   text-align: center;
   width: 68%;
   float: none;
@@ -2159,7 +2163,7 @@ section {
 }
 
 .opening-hours {
-  color: white;
+  color: #2e74ff;
   font-size: 26px;
   font-weight: 700;
   margin: 0;
@@ -2185,11 +2189,11 @@ section {
 }
 
 .food-title {
-  margin-top: 30px;
+  margin-top: 15px;
 }
 
 .food-text {
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .food-img {
