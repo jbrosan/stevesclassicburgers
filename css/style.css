@@ -1645,7 +1645,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   line-height: 20px;
   font-weight: 700;
   height: auto;
-  padding: 20px 15px;
+  padding: 19px 15px;
 }
 
 .navbar-brand span {
@@ -1666,7 +1666,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 
 .navbar-brand > img {
   width: auto;
-  max-height: 40px;
+  max-height: 70px;
 }
 
 .navbar-toggle .icon-bar {
@@ -1905,7 +1905,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 }
 
 #slider img {
-  max-width: 220px;
+  max-width: 500px;
 }
 
 .slide-title {
@@ -2183,7 +2183,7 @@ section {
 /* End About Section */
 /* Menu Section */
 .menu-img {
-  max-width: 200px;
+  max-width: 500px;
   opacity: 0.9;
   margin-bottom: 80px;
 }
@@ -2531,14 +2531,14 @@ footer p {
 /* End Footers */
 /* Scroll to Top */
 .scroll-to-top {
-  background: #bc9d4b;
-  color: white;
+  background: white;
+  color: #0a35bf;
   width: 30px;
   height: 30px;
   bottom: 20px;
   right: 20px;
   line-height: 25px;
-  border: 2px solid #bc9d4b;
+  border: 2px solid #0a35bf;
   border-radius: 50%;
   position: fixed;
   text-align: center;
@@ -2561,9 +2561,9 @@ footer p {
 }
 
 .scroll-to-top:hover {
-  background: #927937;
+  background: #0a35bf;
   color: white;
-  border: 2px solid #927937;
+  border: 2px solid #ffffff;
 }
 
 .scroll-to-top:focus {
