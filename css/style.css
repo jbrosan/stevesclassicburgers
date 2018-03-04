@@ -18,7 +18,7 @@ html, body {
 /* Typography */
 h1, h2, h3 {
   color: #111111;
-  /*font-family: "Oleo Script Swash Caps", cursive;*/
+  /*-family: "Oleo Script Swash Caps", cursive;*/
   font-family: "Shrikhand", cursive;
   font-weight: 400;
   margin-top: 0;
