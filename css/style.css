@@ -1666,7 +1666,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 
 .navbar-brand > img {
   width: auto;
-  max-height: 70px;
+  max-height: 80px;
 }
 
 .navbar-toggle .icon-bar {
