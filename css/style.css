@@ -81,8 +81,8 @@ a:hover, a:active, a:focus {
 p {
   font-family: "Cabin", sans-serif;
   font-weight: 400;
-  font-size: 16px;
-  line-height: 20px;
+  font-size: 20px;
+  line-height: 24px;
   color: #666666;
   letter-spacing: 0.05em;
   margin-bottom: 10px;
@@ -2223,7 +2223,7 @@ section {
 
 /* End Menu Section */
 /* Gallery Section */
-#gallery {
+#specials {
   background-color: #192e44;
 }
 
@@ -2961,3 +2961,59 @@ footer p {
 }
 /* End Min Widths */
 /* / End Media Screens */
+
+/*@media only screen*/
+/*and (min-device-width: 414px)*/
+/*and (max-device-width: 736px)*/
+/*{*/
+  /*.parallax-background {*/
+    /*background-attachment: initial !important;*/
+  /*}*/
+
+  /*.split-menu .pull-left {*/
+    /*float: none !important;*/
+  /*}*/
+
+  /*.split-menu .navbar-brand {*/
+    /*display: block;*/
+  /*}*/
+
+  /*.split-menu .pull-right {*/
+    /*float: none !important;*/
+  /*}*/
+
+  /*.split-menu .navbar-nav {*/
+    /*float: none;*/
+  /*}*/
+
+  /*.split-menu .navbar-nav > li {*/
+    /*float: none;*/
+    /*display: inline-block;*/
+  /*}*/
+
+  /*.nav > li > a {*/
+    /*padding: 14.5px 12px;*/
+  /*}*/
+
+  /*.open .dropdown-menu > li > a {*/
+    /*font-size: 16px;*/
+  /*}*/
+
+  /*#image-header h2 {*/
+    /*font-size: 30px;*/
+  /*}*/
+
+  /*.slide-title {*/
+    /*font-size: 30px;*/
+  /*}*/
+
+  /*.opening-right .opening-title {*/
+    /*margin-top: 30px;*/
+  /*}*/
+
+  /*.opening-left {*/
+    /*border-right: none;*/
+  /*}*/
+/*}*/
+
+
