@@ -1662,6 +1662,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   text-align: center;
   padding-right: 0;
   padding-left: 0;
+
 }
 
 .navbar-brand > img {
@@ -3015,5 +3016,40 @@ footer p {
     /*border-right: none;*/
   /*}*/
 /*}*/
+#slider .faircorndogs {
+  background-image: url("../assets/fairfoodimgs/corndogs.png");
+}
+#slider .fairelephantear {
+  background-image: url("../assets/fairfoodimgs/elephantear.jpg");
+}
+#slider .fairfriedpickles {
+  background-image: url("../assets/fairfoodimgs/friedpickkes.jpg");
+}
+#slider .fairstringfries {
+  background-image: url("../assets/fairfoodimgs/fries.jpg");
+}
+#slider .fairfunnelcake {
+  background-image: url("../assets/fairfoodimgs/funnelcake.png");
+}
+#slider .fairitaliansausage {
+  background-image: url("../assets/fairfoodimgs/italiansausage.jpg");
+}
+#slider .fairmushrooms {
+  background-image: url("../assets/fairfoodimgs/mushrooms.png");
+}
+#slider .fairpolishsausage {
+  background-image: url("../assets/fairfoodimgs/polishsausage.jpg");
+}
+#slider .fairturkeyleg {
+  background-image: url("../assets/fairfoodimgs/turkeyleg.jpg");
+}
+
+
+
+
+
+
+
+
 
 
