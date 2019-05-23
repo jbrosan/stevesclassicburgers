@@ -2945,6 +2945,20 @@ footer p {
     width: 992px;
   }
 }
+
+
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3)
+and (orientation : landscape) {
+  .container {
+    width: 375px;
+  }
+}
+
+
 @media only screen and (min-width: 992px) {
   .split-menu {
     max-height: 60px;
